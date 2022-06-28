@@ -1,5 +1,5 @@
 # Stronghold_triangulator
-App for making stronghold triangulation for Minecraft Java Edition.
+App for making stronghold finding easyer!
 # About
 For finiding stronghold with this app you need onlu 1 - 2 Eyes of Ender.
 Distance betwen two trows must be near 500 or more.
